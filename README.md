@@ -1,7 +1,7 @@
 
 # bubbleDAS
 
-Authors: 杨天让 (Tianrang Yang), 方桢 (Zhen Fang)(Fang-FuDaGuoNanCeYe)
+Authors: 杨天让 (Tianrang Yang), 方桢 (Zhen Fang)
 
 [![License|0](https://img.shields.io/badge/license-AGPL3.0-red.svg)](LICENSE)
 
@@ -77,8 +77,7 @@ bubbleDAS is an *integrated bubble detection tool* designed to assist research i
 
 Here is a applicable installation of labelImg and anylabeling. For official installation, visit [labelImg](https://github.com/HumanSignal/labelImg) and [anylabeling](https://github.com/vietanhdev/anylabeling).
 
-> [!attention]
-> When replacing codes, please maintain the indentation level.
+**Attention: When replacing codes, please maintain the indentation level.**
 
 ### labelImg (for checking the output of image recognition)
 
