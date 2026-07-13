@@ -4,7 +4,7 @@
 
 [![License|0](https://img.shields.io/badge/license-AGPL3.0-red.svg)](LICENSE)  
 
-[English](README.MD) | 中文
+[English](README.md) | 中文
 
 ## 简介
 
