@@ -5,7 +5,7 @@ Authors: 杨天让 (Tianrang Yang)(github account: Tim16888), 方桢 (Zhen Fang)
 
 [![License|0](https://img.shields.io/badge/license-AGPL3.0-red.svg)](LICENSE)
 
-English | [中文](README_ZH.MD)
+English | [中文](README_ZH.md)
 
 ## Overview
 
