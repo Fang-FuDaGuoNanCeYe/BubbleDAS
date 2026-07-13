@@ -28,7 +28,7 @@ bubbleDAS is an *integrated bubble detection tool* designed to assist research i
   - **Flowing**: Bubbles moving in the channel/foreground.  
   - **Detaching/Out**: Transition from staying to flowing.  
   - **Attaching/Back**: Transition from flowing to staying.  
-  **For detailed definitions, see DOI: ........**
+  For detailed definitions, see DOI: (Manuscript under review, once published we will update this readme file)
 
 - **labelImg** and **anylabeling** are *not required* for basic functionality, but they are recommended for input/output compatibility.
 
