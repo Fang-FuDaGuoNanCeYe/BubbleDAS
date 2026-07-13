@@ -1,4 +1,4 @@
-# bubbleDAS
+# BubbleDAS
 
 作者：杨天让(github账号名: Tim16888), 方桢(github账号名: Fang-FuDaGuoNanCeYe) 
 
@@ -8,7 +8,7 @@
 
 ## 简介
 
-`bubbleDAS` 是一个**集成气泡检测工具**，可辅助电解槽或电解池电极上的气泡可视化研究。
+`BubbleDAS` 是一个**集成气泡检测工具**，可辅助电解槽或电解池电极上的气泡可视化研究。
 
 ![UI](res4Readme/UI.png)
 
