@@ -1,5 +1,5 @@
 
-# bubbleDAS
+# BubbleDAS
 
 Authors: 杨天让 (Tianrang Yang)(github account: Tim16888), 方桢 (Zhen Fang)(github account: Fang-FuDaGuoNanCeYe)
 
@@ -9,7 +9,7 @@ English | [中文](README_ZH.md)
 
 ## Overview
 
-bubbleDAS is an *integrated bubble detection tool* designed to assist research involving bubble visualization on electrodes of electrolyzers or electrolytic cells.
+BubbleDAS is an *integrated bubble detection tool* designed to assist research involving bubble visualization on electrodes of electrolyzers or electrolytic cells.
 
 ![UI](res4Readme/UI.png)
 
