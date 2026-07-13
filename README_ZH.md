@@ -71,8 +71,7 @@ pip install ultralytics matplotlib numpy pandas shapely tqdm wxPython pgzip -i h
 
 此处我们提供一个可用的下载方法。[labelImg](https://github.com/HumanSignal/labelImg)  和 [anylabeling](https://github.com/vietanhdev/anylabeling) 的官方安装方法请参见其 github 首页。
 
-> [!attention] 注意
-> 替换代码时，请保持缩进量。也即，原来这行代码前有多少个空格或`tab`，更改后这行代码前就应有多少空格或`tab`。
+**注意：替换代码时，请保持缩进量。也即，原来这行代码前有多少个空格或`tab`，更改后这行代码前就应有多少空格或`tab`。**
 
 ### labelImg（用于查看图片识别的结果）
 
