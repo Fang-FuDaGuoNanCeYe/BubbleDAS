@@ -1,7 +1,7 @@
 
 # bubbleDAS
 
-Authors: 杨天让 (Tianrang Yang), 方桢 (Zhen Fang) (Fang-FuDaGuoNanCeYe)
+Authors: 杨天让 (Tianrang Yang)(github account: Tim16888), 方桢 (Zhen Fang)(github account: Fang-FuDaGuoNanCeYe)
 
 [![License|0](https://img.shields.io/badge/license-AGPL3.0-red.svg)](LICENSE)
 
