@@ -28,7 +28,7 @@ BubbleDAS is an *integrated bubble detection tool* designed to assist research i
   - **Flowing**: Bubbles moving in the channel/foreground.  
   - **Detaching/Out**: Transition from staying to flowing.  
   - **Attaching/Back**: Transition from flowing to staying.  
-  For detailed definitions, see DOI: [10.1016/j.ijhydene.2026.158485](www.doi.org/10.1016/j.ijhydene.2026.158485)
+  For detailed definitions, see DOI: [10.1016/j.ijhydene.2026.158485](https://www.doi.org/10.1016/j.ijhydene.2026.158485)
 
 - **labelImg** and **anylabeling** are *not required* for basic functionality, but they are recommended for input/output compatibility.
 
@@ -150,6 +150,6 @@ painter.drawText(int(min_x), int(min_y), self.label)
 
 
 ## License
-==Citation requested==: If you use BubbleDAS, including its statistic code, direct or derived outputs, in publications, dissertation, treatise, reports, presentations, or other software, please cite the repository, and this paper: [10.1016/j.ijhydene.2026.158485](www.doi.org/10.1016/j.ijhydene.2026.158485)
+==Citation requested==: If you use BubbleDAS, including its statistic code, direct or derived outputs, in publications, dissertation, treatise, reports, presentations, or other software, please cite the repository, and this paper: [10.1016/j.ijhydene.2026.158485](https://www.doi.org/10.1016/j.ijhydene.2026.158485)
 
 This project is licensed under the **AGPL 3.0** license. For details, see the [LICENSE](LICENSE) file.
